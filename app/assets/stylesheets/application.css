@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+ #kobe_img,
+ #zebreon_img{
+   width: 400px;
+   height: 600px;
+ }
